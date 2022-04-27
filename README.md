@@ -1,3 +1,3 @@
 - 👋 Hello, I’m @VictorFogarolli
 - 🖥️ I’m interested in Tecnology  
-- 👨🏼‍🎓 am currently studying to become Software Engineer.
+- 👨🏼‍🎓 Am currently studying to become Software Engineer.
